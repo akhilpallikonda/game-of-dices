@@ -1,0 +1,26 @@
+@import "./vars.css";
+body {
+  background-color: var(--color-brand-3);
+  color: var(--color-brand-5);
+  margin: 0;
+  font-family: sans-serif;
+}
+.App {
+  text-align: center;
+}
+header,
+footer {
+  background-color: var(--color-brand-2);
+  color: var(--color-brand-5);
+}
+h1 {
+  margin: 0;
+}
+h1 img {
+  vertical-align: middle;
+}
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

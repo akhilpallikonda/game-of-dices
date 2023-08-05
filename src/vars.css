@@ -1,0 +1,19 @@
+:root {
+  --color-black: #000;
+  --color-gray25: #404040;
+  --color-gray65: #a6a6a6;
+
+  --color-brand-1: #35090c;
+  --color-brand-2: #950e17;
+  --color-brand-3: #ea212f;
+  --color-brand-4: #f37c84;
+  --color-brand-5: #fce3e4;
+
+  --size-xs: 0.25rem;
+  --size-sm: 0.5rem;
+  --size-md: 0.75rem;
+  --size-l: 1rem;
+  --size-xl: 1.5rem;
+  --size-xxl: 2rem;
+  --size-xxxl: 4rem;
+}
