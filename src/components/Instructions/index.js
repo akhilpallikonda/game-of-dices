@@ -1,4 +1,4 @@
-import * as styles from "./styles.module.css";
+import styles from "./styles.module.css";
 export const Instructions = () => {
   return (
     <div className={styles.instructions}>

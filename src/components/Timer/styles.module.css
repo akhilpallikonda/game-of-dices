@@ -3,7 +3,7 @@
   width: var(--size-xxxl);
   line-height: var(--size-xxxl);
   border-radius: 50%;
-  color: #fff;
+  color: var(--color-brand-5);
   position: relative;
   left: 45%;
   background: var(--color-brand-2);

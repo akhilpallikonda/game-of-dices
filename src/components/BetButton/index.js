@@ -1,7 +1,7 @@
-import * as styles from "./styles.module.css";
+import styles from "./styles.module.css";
 const BetButton = ({ betNumber, betValue, disableBets, onBetButtonClick }) => {
   return (
-    <div style={{ display: "inline-block", padding: "0.5rem" }}>
+    <div className={styles.betbutton}>
       <button
         onClick={(e) => onBetButtonClick(betNumber)}
         disabled={disableBets}

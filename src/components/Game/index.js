@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import GameScreen from "../GameScreen";
 import Instructions from "../Instructions";
-import * as styles from "./styles.module.css";
+import styles from "./styles.module.css";
 
 export const Game = () => {
   const [balance, setBalance] = useState(100);
